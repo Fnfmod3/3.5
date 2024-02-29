@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="refresh_equations">Refresh Equations</string>
+    <string name="math_equations">Math Equations</string>
+</resources>
